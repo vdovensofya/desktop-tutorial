@@ -144,7 +144,7 @@ describe('sum module', () => {
    //         };
    //         throw e;
    //     }
-    });
+   });
 
    it('Проверка страницы "Автозалога" на сайте "site-test4.dobrozaim"', async () => {
       //  try {
@@ -338,7 +338,7 @@ describe('sum module', () => {
       //      };
       //      throw e;
       //  }
-    });
+     });
 
     it('Проверка отправки заявки на странице "Инвестиции" на сайте "site-test4.dobrozaim"', async () => {
       try {
