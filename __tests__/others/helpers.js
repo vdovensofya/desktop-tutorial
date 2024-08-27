@@ -1,4 +1,4 @@
-import { url, sqlConfig, sqlConfigFight } from './config';
+import { url, sqlConfig, sqlConfigFight } from './Step/config';
 import * as sql from 'mssql';
 import { TimeoutError } from 'puppeteer';
 const fetch = require('node-fetch');

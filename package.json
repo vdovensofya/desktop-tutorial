@@ -4,7 +4,8 @@
 	"description": "",
 	"scripts": {
 		"test:Stage": "jest czStage.test.js",
-		"test:New": "jest czNew.test.js"
+		"test:New": "jest czNew.test.js",
+		"test:regular": "jest czNew.test.js"
 	},
 	"author": "",
 	"license": "ISC",
@@ -25,8 +26,7 @@
 	},
 	"dependencies": {
 		"d": "^1.0.1",
-		"node-fetch": "^2.7.0"
+		"node-fetch": "^2.7.0",
+		"summit_tests": "file:"
 	}
 }
-    
-	
